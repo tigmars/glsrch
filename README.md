@@ -10,5 +10,5 @@ Objectives:
 - Support a page forward/back interface with a stored procedure that caches the results of a search.
 
 The included example runs on the Northwnd database.  (Note the missing 'i'.)
-- Open sqlsug.sql in SSMS.  F5
-- Open sqlsug_run.sql in SSMS. F5
+- Open sqlsug.sql in SSMS.  <execute>
+- Open sqlsug_run.sql in SSMS. <execute>
