@@ -1,5 +1,5 @@
 /*
-Copyright CNC Software, Inc. 2018
+Copyright Martin S. Tignor 2023
 */
 SET ANSI_NULLS ON;
 GO
